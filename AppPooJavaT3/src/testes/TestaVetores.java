@@ -8,7 +8,7 @@ public class TestaVetores {
 		
 		int tamanho = Integer.valueOf(args[0]);
 		
-		// criacão de vetores
+		// vetores
 		
 		float[] valores = new float [tamanho];
 		String[] meses = {"Jan", "Fev", "Mar", "Abr", "Mai", "Jun", "Jul", "Ago", "Set", "Out", "Nov", "Dez"};
