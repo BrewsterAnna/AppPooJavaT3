@@ -22,11 +22,10 @@ public class TestaVetores {
 			mes = ler.nextInt();
 			
 			totais[mes-1] = totais[mes-1] + valores[i];
-			
 		}
 		
 		float total = 0;
-//		For com condição parada
+//		For com condiÃ§Ã£o parada
 ////		for (int i = 0; i < valores.length; i++) {
 ////			total = total + valores[i];
 //		}
@@ -43,10 +42,6 @@ public class TestaVetores {
 					totais[i]
 						);
 		}
-		
 		System.out.println("Tamanho: "+ valores.length);
-			
-			
 	}
-
 }
